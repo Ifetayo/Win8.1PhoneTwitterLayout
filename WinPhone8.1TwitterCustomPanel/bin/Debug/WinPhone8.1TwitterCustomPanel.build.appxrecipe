@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>AI</Machine>
+    <WindowsUser>Ifetayo</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>fe540554-3289-461b-82c1-bd916f82d2f9</PackageIdentityName>
+    <IntermediateOutputPath>C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\WinPhone8.1TwitterCustomPanel.exe">
+      <PackagePath>WinPhone8.1TwitterCustomPanel.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\WinPhone8.1TwitterCustomPanel.xr.xml">
+      <PackagePath>WinPhone8.1TwitterCustomPanel.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
