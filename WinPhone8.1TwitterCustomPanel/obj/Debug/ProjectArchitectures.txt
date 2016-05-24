@@ -1,1 +1,1 @@
-C:\WINPHN\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel.csproj;neutral
+C:\Users\Ifetayo\Documents\ProjectDeployment\WinPhone8._1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel\WinPhone8.1TwitterCustomPanel.csproj;neutral

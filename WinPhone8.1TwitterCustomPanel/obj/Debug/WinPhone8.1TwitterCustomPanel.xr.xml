@@ -1,9 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Roots >
+<Roots xmlns="clr-namespace:Microsoft.Xaml.Tools.XamlCompiler.RootLog;assembly=Microsoft.Windows.UI.Xaml.81.Build.Tasks">
   <Roots.PropertyPathNames>
     <RootPropertyPathName Name="Background" />
     <RootPropertyPathName Name="SelectedIndex" />
-    <RootPropertyPathName Name="Foreground" />
   </Roots.PropertyPathNames>
   <Roots.RootTypes>
     <RootType FullName="Windows.UI.Xaml.Application" />
@@ -98,7 +97,6 @@
       <RootProperty Name="Text" />
       <RootProperty Name="Style" />
       <RootProperty Name="FontWeight" />
-      <RootProperty Name="Name" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.RichTextBlock">
       <RootProperty Name="Margin" />
@@ -126,12 +124,11 @@
       <RootProperty Name="Template" />
     </RootType>
     <RootType FullName="WinPhone8._1TwitterCustomPanel.ControlPanel.SplitPanel" />
-    <RootType FullName="Windows.UI.Xaml.Shapes.Path">
-      <RootProperty Name="Fill" />
-      <RootProperty Name="UseLayoutRounding" />
+    <RootType FullName="Windows.UI.Xaml.Controls.PathIcon">
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Data" />
+      <RootProperty Name="UseLayoutRounding" />
     </RootType>
     <RootType FullName="WinPhone8._1TwitterCustomPanel.MainPage" />
   </Roots.RootTypes>
