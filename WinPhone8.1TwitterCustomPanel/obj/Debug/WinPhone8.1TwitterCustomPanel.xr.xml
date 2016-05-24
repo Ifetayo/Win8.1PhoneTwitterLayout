@@ -128,7 +128,6 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="Data" />
-      <RootProperty Name="UseLayoutRounding" />
     </RootType>
     <RootType FullName="WinPhone8._1TwitterCustomPanel.MainPage" />
   </Roots.RootTypes>

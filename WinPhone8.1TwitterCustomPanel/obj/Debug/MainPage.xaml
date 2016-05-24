@@ -77,7 +77,7 @@
                 </ListBox.ItemsPanel>
 
                 <ListBoxItem>
-                        <PathIcon UseLayoutRounding="False" HorizontalAlignment="Stretch" VerticalAlignment="Top" 
+                        <PathIcon HorizontalAlignment="Stretch" VerticalAlignment="Top" 
                         Data="M8.4897043,35.957584C8.1139871,35.963253 7.7342626,36.059986 7.3837401,
                               36.256923 6.2606875,36.889827 5.8622467,38.309032 6.4937173,39.431434 7.1253091,
                               40.556541 8.5472128,40.952244 9.6702158,40.322139 10.791317,39.691837 11.189018,
@@ -141,7 +141,7 @@
                 </ListBoxItem>
                 <ListBoxItem>
                         <PathIcon
-                        HorizontalAlignment="Stretch" VerticalAlignment="Top" 
+                        HorizontalAlignment="Stretch" VerticalAlignment="Top"
                         Data="F1M37.5833,20.4798C40.1177,19.3086 42.8541,18.6393 45.6861,18.5859 46.8397,
                               18.5638 48.1556,19.1745 47.8841,17.7044 47.757,17.0032 46.8378,16.1309 46.3444,
                               15.6413 40.7916,10.1465 30.8755,8.80402 21.7342,12.9427 12.0865,17.3105 6.45099,
@@ -309,7 +309,7 @@
             </PivotItem>
             <PivotItem>
                 <StackPanel>
-                    <TextBlock Text="Grapes" Style="{StaticResource TitleTextBlockStyle}" FontWeight="Bold"/>
+                    <TextBlock Text="GRAPES" Style="{StaticResource TitleTextBlockStyle}" FontWeight="Bold"/>
                     <RichTextBlock Margin="0,12,0,0">
                         <Paragraph>
                             <Run>
